@@ -1,0 +1,4 @@
+app:
+  name: events-app
+  version: v1
+  message: "Hello from version 1"
